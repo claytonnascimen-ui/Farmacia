@@ -1,0 +1,6 @@
+{
+  "name": "FarmaControl",
+  "description": "Sistema completo para controle de vendas, estoque e relatórios de farmácia, integrado ao Supabase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
